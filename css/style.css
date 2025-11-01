@@ -184,7 +184,7 @@
 .reviews {
     width: 80%;
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
 }
 
 .reviews_section--title {
@@ -239,4 +239,5 @@
     text-align: center;
     display: flex;
     justify-content: center;
+
 }
